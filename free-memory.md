@@ -17,3 +17,10 @@ Other ways to find out free memory :
 - `cat /proc/meminfo`
 - `vmstat`
 - `htop`
+
+
+###
+ References:
+
+- https://discuss.newrelic.com/t/why-do-free-and-or-top-show-different-memory-usage-than-the-new-relic-ui/273
+- http://www.binarytides.com/linux-command-check-memory-usage/
