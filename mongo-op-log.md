@@ -8,3 +8,6 @@
 - Link is weak 
 - Replica machine is weaker than primary
 
+
+References: 
+https://blog.mlab.com/2013/03/replication-lag-the-facts-of-life/#What_is_replication_lag
