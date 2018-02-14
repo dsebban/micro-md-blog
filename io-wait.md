@@ -18,4 +18,5 @@ If wait is 0 it means you are good :)
 
 
 References : 
-http://veithen.github.io/2013/11/18/iowait-linux.html
+- http://veithen.github.io/2013/11/18/iowait-linux.html
+- https://serverfault.com/questions/12679/can-anyone-explain-precisely-what-iowait-is
